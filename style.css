@@ -1,0 +1,52 @@
+body{
+	background-color: #dfced3;
+	margin: 0;
+}
+
+/*header, main div, footer{
+	border: 1px solid ;
+}*/
+
+.navbar-brand,.nav-link, footer h2, footer P{
+color: #323335;
+}
+
+.cadré{
+	position: relative;
+	margin: auto;
+}
+
+header{
+	height: 600px;
+	background-image: url('img/th.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+img{
+	width: 526px;
+	height: 400.75px;
+}
+p{
+	width: 734.73px;
+	height: 119.39px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.haut_bas{
+	position: relative;
+	padding-top: 100px;
+}
+
+.milieu{
+	padding: 20px;
+}
+
+.bas{
+	margin-top: 100px;
+}
+
+.word{
+	background:#694550;
+	padding: 10px 30px;
+}
